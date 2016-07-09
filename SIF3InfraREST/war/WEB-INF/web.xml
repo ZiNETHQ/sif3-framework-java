@@ -62,6 +62,7 @@
     <context-param> 
         <param-name>SERVICE_PROPERTY_FILE</param-name> 
         <!--param-value>BrokeredSISProvider</param-value--> 
+        <!--param-value>UKBrokeredProvider</param-value-->
         <param-value>UKProvider</param-value> 
     </context-param> 
 
